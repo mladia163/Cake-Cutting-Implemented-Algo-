@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1432022166 source:f:\let it be coding man\project_algo\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<set>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<string>
+	<algorithm>
+	<bits/stdc++.h>
+	<cstdio>
+
